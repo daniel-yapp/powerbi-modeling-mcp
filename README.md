@@ -66,7 +66,7 @@ Example of config that should work in most MCP clients:
 ### Usage
 
 > [!WARNING]  
-> Use caution when connecting this MCP server to a semantic model. The underlying LLM may produce unexpected or inaccurate results, which could lead to unintended changes. **Always create a backup of your model before performing any operations.**
+> Use caution when connecting this MCP server to a semantic model. The underlying LLM may produce unexpected or inaccurate results, which could lead to unintended changes. **Always create a backup of your model before performing any operations.** 
 
 **First, you must connect to a Power BI semantic model**, which can reside in Power BI Desktop, Fabric workspace or in Power BI Project (PBIP) files.
 
