@@ -26,7 +26,7 @@ It’s a local, AI-ready Model Context Protocol (MCP) server that encapsulates t
 
 ## 🚀 Getting started
 
-### Installation
+### How to install
 
 #### Visual Studio Code (Recommended)
 
@@ -66,7 +66,7 @@ Example of config that should work in most MCP clients:
 }
 ```
 
-### Usage
+### Usage instructions
 
 **First, you must connect to a Power BI semantic model**, which can reside in Power BI Desktop, Fabric workspace or in Power BI Project (PBIP) files.
 
