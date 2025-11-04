@@ -3,6 +3,8 @@
 ## 0.1.5
 
 - Several bug fixes
+- Optimization to trace operations
+- DAX query execution metrics
 - User confirmation before running DAX queries
 
 ## 0.1.1

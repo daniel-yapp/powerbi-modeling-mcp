@@ -37,7 +37,7 @@ The easiest way to install this MCP Server is by using the **Visual Studio Code 
    
 	![vs code install](docs/img/vscode-extension-install.png)
 
-4. Open [GitHub Copilot chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat) and confirm the **Power BI Modeling MCP server** is available.
+4. Open [GitHub Copilot chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat) and confirm the **Power BI Modeling MCP server** is available and selected.
    
 	![vscode-mcp-tools](docs/img/vscode-mcp-tools.png)
 
